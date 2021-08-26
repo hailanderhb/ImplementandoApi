@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Dio.avaCloud.Entidades\Dio.avaCloud.Entidades\bin\Debug\netcoreapp3.1\Dio.avaCloud.Entidades.deps.json
+C:\Users\User\Desktop\Dio.avaCloud.Entidades\Dio.avaCloud.Entidades\bin\Debug\netcoreapp3.1\Dio.avaCloud.Entidades.dll
+C:\Users\User\Desktop\Dio.avaCloud.Entidades\Dio.avaCloud.Entidades\bin\Debug\netcoreapp3.1\Dio.avaCloud.Entidades.pdb
+C:\Users\User\Desktop\Dio.avaCloud.Entidades\Dio.avaCloud.Entidades\obj\Debug\netcoreapp3.1\Dio.avaCloud.Entidades.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Dio.avaCloud.Entidades\Dio.avaCloud.Entidades\obj\Debug\netcoreapp3.1\Dio.avaCloud.Entidades.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Dio.avaCloud.Entidades\Dio.avaCloud.Entidades\obj\Debug\netcoreapp3.1\Dio.avaCloud.Entidades.AssemblyInfo.cs
+C:\Users\User\Desktop\Dio.avaCloud.Entidades\Dio.avaCloud.Entidades\obj\Debug\netcoreapp3.1\Dio.avaCloud.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Dio.avaCloud.Entidades\Dio.avaCloud.Entidades\obj\Debug\netcoreapp3.1\Dio.avaCloud.Entidades.dll
+C:\Users\User\Desktop\Dio.avaCloud.Entidades\Dio.avaCloud.Entidades\obj\Debug\netcoreapp3.1\Dio.avaCloud.Entidades.pdb
+C:\Users\User\Desktop\Dio.avaCloud.Entidades\Dio.avaCloud.Entidades\obj\Debug\netcoreapp3.1\Dio.avaCloud.Entidades.GeneratedMSBuildEditorConfig.editorconfig
