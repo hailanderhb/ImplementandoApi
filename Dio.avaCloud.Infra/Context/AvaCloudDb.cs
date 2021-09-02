@@ -1,6 +1,9 @@
 ﻿using Dio.avaCloud.Entidades;
 using Dio.avaCloud.Infra.IntializeDb;
 using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace Dio.avaCloud.Infra.Context
 {
@@ -15,7 +18,7 @@ namespace Dio.avaCloud.Infra.Context
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.InitDb();
-            base.OnModelCreating(modelBuilder);
+
         }
 
         public DbSet<Product> Products{get; set;}

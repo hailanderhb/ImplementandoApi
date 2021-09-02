@@ -17,6 +17,5 @@ namespace Dio.avaCloud.Entidades.Contract
 
         Task<int> CountAsync();
 
-
     }
 }

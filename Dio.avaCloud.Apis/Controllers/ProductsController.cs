@@ -54,6 +54,7 @@ namespace Dio.avaCloud.Apis.Controllers
         [HttpPut("{id}")]
         public void Put(int id, [FromBody] string value)
         {
+
         }
 
         // DELETE api/<ProductController>/5
